@@ -1,0 +1,36 @@
+name: Check official sources
+on:
+  push:
+    branches: [main]
+    paths:
+      - data/catalog.json
+      - scripts/check-sources.mjs
+      - .github/workflows/source-check.yml
+  schedule:
+    - cron: '0 2 * * *' # 10:00 Asia/Shanghai
+  workflow_dispatch:
+permissions:
+  contents: write
+concurrency:
+  group: source-check
+  cancel-in-progress: false
+jobs:
+  check:
+    runs-on: ubuntu-latest
+    timeout-minutes: 10
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-node@v4
+        with:
+          node-version: '22'
+      - run: node scripts/validate-data.mjs
+      - run: node scripts/check-sources.mjs
+      - name: Commit public health record
+        run: |
+          git config user.name 'github-actions[bot]'
+          git config user.email '41898282+github-actions[bot]@users.noreply.github.com'
+          git add public/data/source-health.json
+          if ! git diff --cached --quiet; then
+            git commit -m 'chore: refresh source reachability record'
+            git push
+          fi

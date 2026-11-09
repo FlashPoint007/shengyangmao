@@ -1,0 +1,360 @@
+{
+  "reviewedAt": "2026-11-09T03:25:00Z",
+  "repository": "FlashPoint007/shengyangmao",
+  "deals": [
+    {
+      "id": "psbc-kfc",
+      "title": "肯德基 × 邮储信用卡，满 36 减 6",
+      "brand": "邮储银行",
+      "mark": "邮",
+      "color": "green",
+      "category": "bank",
+      "benefit": "减 ¥6",
+      "subtitle": "每月一次 · 指定门店 · 名额有限",
+      "summary": "肯德基 App 点单，支付宝选择已绑定的邮储信用卡支付，符合条件有机会享满 36 元减 6 元。",
+      "tags": [
+        "邮储信用卡",
+        "支付宝",
+        "每月限 1 次"
+      ],
+      "region": "中国大陆",
+      "threshold": "订单满 36 元；邮储信用卡绑定大陆实名认证支付宝",
+      "eligibility": "邮储信用卡正常持卡人，限指定肯德基门店；同一用户每月 1 次。",
+      "steps": [
+        "打开肯德基 App，确认门店参与活动并点单。",
+        "提交订单后，收银台选择支付宝，再选择邮储信用卡。",
+        "确认支付页实际显示满 36 减 6 后再付款。"
+      ],
+      "cautions": [
+        "月初投放名额，库存实时变化，本站未验证支付资格或剩余库存。",
+        "周六 25 元券另需上月消费达标，本卡片的满 36 减 6 不要求该条件。",
+        "单笔订单仅享一次优惠，以支付页为准。"
+      ],
+      "url": "https://www.psbc.com/cn/grfw/xyk/tyhd/qgthhd/202608/t20260831_458059.html",
+      "source": "邮储银行活动细则",
+      "verified": "rules",
+      "verifiedAt": "2026-11-09T03:25:00Z",
+      "expiresAt": "2026-12-31T15:59:59Z",
+      "startAt": "2026-08-31T16:00:00Z",
+      "cost": "purchase",
+      "rank": 100
+    },
+    {
+      "id": "unionpay-ctrip",
+      "title": "银联 × 携程全球购，报名享额外返现",
+      "brand": "银联国际",
+      "mark": "银",
+      "color": "blue",
+      "category": "bank",
+      "benefit": "额外返现",
+      "subtitle": "11 月活动 · 需先报名",
+      "summary": "境内发行的 62 开头银联卡，报名后在参与商户通过银联渠道消费，有机会获得携程返现。具体金额按券面规则。",
+      "tags": [
+        "62 开头银联卡",
+        "先报名",
+        "参与商户"
+      ],
+      "region": "依商户地区",
+      "threshold": "境内（不含港澳台）发行的 62 开头银联卡",
+      "eligibility": "需报名并领取参与商户的全球购优惠券；指定支付渠道。",
+      "steps": [
+        "打开携程 App 搜索“银联返现”，阅读规则并报名。",
+        "领取对应商户优惠券，核对最低消费及返现要求。",
+        "消费时出示优惠券，并使用报名银联卡通过合格渠道支付。"
+      ],
+      "cautions": [
+        "返现金额、参与商户和门槛随具体优惠券变化。",
+        "往期已报名用户可继续参加；退货及返现时效以官方规则为准。"
+      ],
+      "url": "https://m.unionpayintl.com/cardholderServ/serviceCenter/wap/merchant/12402428110279?type=1",
+      "source": "银联国际活动规则",
+      "verified": "rules",
+      "verifiedAt": "2026-11-09T03:25:00Z",
+      "expiresAt": "2026-11-30T15:59:59Z",
+      "startAt": "2026-10-31T16:00:00Z",
+      "cost": "purchase",
+      "rank": 90
+    },
+    {
+      "id": "mcdonalds-coupons",
+      "title": "麦当劳会员优惠券，官方入口直达",
+      "brand": "麦当劳",
+      "mark": "M",
+      "color": "yellow",
+      "category": "life",
+      "benefit": "会员领券",
+      "subtitle": "优惠随门店及账号变化",
+      "summary": "从官网查看会员领券渠道，进入麦当劳官方 App 或小程序领取适用优惠券。",
+      "tags": [
+        "会员权益",
+        "官方入口",
+        "到店 / 麦乐送"
+      ],
+      "region": "中国大陆",
+      "threshold": "注册会员；具体券使用条件以 App 为准",
+      "eligibility": "各券适用时段、门店及配送渠道不同。",
+      "steps": [
+        "进入官方优惠券页面，前往官方 App 或小程序。",
+        "选择实际消费的城市和餐厅，查看当前可领券。",
+        "核对有效期、产品及渠道限制后使用。"
+      ],
+      "cautions": [
+        "这是官方领券入口，未核实某一张券的实时库存或到手价。",
+        "配送费、包装费和特殊餐厅限制以订单页为准。"
+      ],
+      "url": "https://www.mcdonalds.com.cn/coupon/",
+      "source": "麦当劳中国官网",
+      "verified": "entry",
+      "verifiedAt": "2026-11-09T03:25:00Z",
+      "expiresAt": null,
+      "cost": "purchase",
+      "rank": 80
+    },
+    {
+      "id": "gemini-free",
+      "title": "Gemini API，部分模型提供免费层",
+      "brand": "Google AI",
+      "mark": "✦",
+      "color": "blue",
+      "category": "ai",
+      "benefit": "免费层",
+      "subtitle": "开发测试 · 按模型限流",
+      "summary": "新项目可在支持地区使用部分模型的免费层。具体模型、速率与数据使用政策需逐项核对。",
+      "tags": [
+        "API",
+        "地区限制",
+        "部分模型"
+      ],
+      "region": "支持地区",
+      "threshold": "Google 账号；所在地区及模型需支持免费层",
+      "eligibility": "免费额度因模型、项目和当前政策而异，不等于所有 Gemini 模型均免费。",
+      "steps": [
+        "打开官方定价页，找到目标模型的 Free Tier 列。",
+        "核对支持地区、数据使用和速率限制。",
+        "在 AI Studio 创建项目，检查实际可用额度后调用。"
+      ],
+      "cautions": [
+        "部分模型无免费层；免费层与付费层数据使用政策可能不同。",
+        "本站不推测你的个人额度，也不承诺固定 Token 数。"
+      ],
+      "url": "https://ai.google.dev/gemini-api/docs/pricing",
+      "source": "Google AI 官方定价文档",
+      "verified": "rules",
+      "verifiedAt": "2026-11-09T03:25:00Z",
+      "expiresAt": null,
+      "cost": "free",
+      "rank": 95
+    },
+    {
+      "id": "cloudflare-ai",
+      "title": "Workers AI，每日免费推理配额",
+      "brand": "Cloudflare",
+      "mark": "☁",
+      "color": "orange",
+      "category": "ai",
+      "benefit": "1 万 Neurons / 天",
+      "subtitle": "部分模型需 Workers Paid",
+      "summary": "Workers AI 提供每日 10,000 Neurons 免费分配。资源密集模型可能要求付费计划，需查看模型权限。",
+      "tags": [
+        "API",
+        "每日配额",
+        "模型限制"
+      ],
+      "region": "支持地区",
+      "threshold": "Cloudflare 账号；免费计划仅支持部分模型",
+      "eligibility": "Neurons 为算力计量单位，不等于 Token。每日分配不可累积。",
+      "steps": [
+        "阅读官方定价，查看目标模型访问条件。",
+        "在 Cloudflare 控制台启用 Workers AI，选择可用模型。",
+        "监控 Neurons 使用量；付费计划需留意超额费用。"
+      ],
+      "cautions": [
+        "部分资源密集模型自 2026 年 7 月起需 Workers Paid。",
+        "付费计划超额可能计费；不能把每日配额理解为无限调用。"
+      ],
+      "url": "https://developers.cloudflare.com/workers-ai/platform/pricing/",
+      "source": "Cloudflare Workers AI 定价",
+      "verified": "rules",
+      "verifiedAt": "2026-11-09T03:25:00Z",
+      "expiresAt": null,
+      "cost": "free",
+      "rank": 93
+    },
+    {
+      "id": "hf-spaces",
+      "title": "Hugging Face Static Spaces，免费托管",
+      "brand": "Hugging Face",
+      "mark": "🤗",
+      "color": "yellow",
+      "category": "ai",
+      "benefit": "静态托管免费",
+      "subtitle": "静态页面 · ML 展示",
+      "summary": "Static Spaces 对所有人免费。Gradio / Docker 创建涉及付费计划，免费个人账号的 ZeroGPU 另有条件。",
+      "tags": [
+        "静态站点",
+        "开发者",
+        "无免费 GPU 承诺"
+      ],
+      "region": "支持地区",
+      "threshold": "Hugging Face 账号；创建时选择 Static HTML",
+      "eligibility": "免费的是 Static Spaces；普通计算型 Spaces 创建政策不同。",
+      "steps": [
+        "登录 Hugging Face，创建一个 Space。",
+        "SDK 选择 Static HTML，按需设置可见性。",
+        "上传静态文件，通过构建后的地址访问。"
+      ],
+      "cautions": [
+        "不要把 CPU Basic 的零小时费误解为任何账号都可免费创建计算型 Space。",
+        "ZeroGPU 使用和创建资格请另查官方规则。"
+      ],
+      "url": "https://huggingface.co/docs/hub/spaces-overview",
+      "source": "Hugging Face Spaces 文档",
+      "verified": "rules",
+      "verifiedAt": "2026-11-09T03:25:00Z",
+      "expiresAt": null,
+      "cost": "free",
+      "rank": 70
+    },
+    {
+      "id": "epic-weekly",
+      "title": "Epic 每周免费游戏，领取后入库",
+      "brand": "Epic Games",
+      "mark": "E",
+      "color": "dark",
+      "category": "game",
+      "benefit": "每周限免",
+      "subtitle": "每周四更新 · 按商店地区",
+      "summary": "在官方 Free Games 页面查看本周赠送游戏。在领取窗口内完成入库后，可保留已领取游戏。",
+      "tags": [
+        "PC 游戏",
+        "账号地区",
+        "限时领取"
+      ],
+      "region": "依账号地区",
+      "threshold": "Epic 账号；须符合地区与年龄要求",
+      "eligibility": "领取窗口、平台及可用性以实际游戏商品页为准；免费游玩与永久赠送需区分。",
+      "steps": [
+        "打开 Epic 官方免费游戏专区。",
+        "选择标注赠送且当前可领取的游戏，核对商品页截止时间。",
+        "确认最终价格为 0，完成领取并检查游戏库。"
+      ],
+      "cautions": [
+        "专区同时包含免费游玩游戏，不代表所有游戏均为限时永久赠送。",
+        "本站提供官方入口，未核验具体游戏当前库存或你的账号领取权限。"
+      ],
+      "url": "https://store.epicgames.com/free-games",
+      "source": "Epic Games Store 免费专区",
+      "verified": "entry",
+      "verifiedAt": "2026-11-09T03:25:00Z",
+      "expiresAt": null,
+      "cost": "free",
+      "rank": 85
+    },
+    {
+      "id": "github-student",
+      "title": "GitHub 学生开发者礼包",
+      "brand": "GitHub Education",
+      "mark": "GH",
+      "color": "purple",
+      "category": "digital",
+      "benefit": "学生专属",
+      "subtitle": "工具 · 云资源 · 学习",
+      "summary": "通过 GitHub Education 学生认证后，按合作方规则申请开发工具、云服务和学习权益。",
+      "tags": [
+        "学生认证",
+        "开发工具",
+        "限资格"
+      ],
+      "region": "支持地区",
+      "threshold": "年满 13 岁、符合要求的在读学生并通过认证",
+      "eligibility": "各合作方权益有独立的地区、期限和新用户条件。",
+      "steps": [
+        "查看 Student Developer Pack 官方权益清单。",
+        "提交符合要求的学生认证资料。",
+        "认证通过后分别查看并激活需要的合作方权益。"
+      ],
+      "cautions": [
+        "不是任何账号都能领取，不代表每个合作方都提供永久免费服务。",
+        "留意试用到期与自动续费；不要为了领取权益购买不需要的服务。"
+      ],
+      "url": "https://education.github.com/pack",
+      "source": "GitHub Education 官方页面",
+      "verified": "rules",
+      "verifiedAt": "2026-11-09T03:25:00Z",
+      "expiresAt": null,
+      "cost": "free",
+      "rank": 75
+    },
+    {
+      "id": "supabase-free",
+      "title": "Supabase Free，个人项目数据库起步",
+      "brand": "Supabase",
+      "mark": "ϟ",
+      "color": "green",
+      "category": "digital",
+      "benefit": "500 MB 数据库",
+      "subtitle": "每项目 · Free 计划",
+      "summary": "Free 计划含每项目 500 MB 数据库及基础存储等额度，适合实验与个人项目。",
+      "tags": [
+        "PostgreSQL",
+        "开发者",
+        "闲置暂停"
+      ],
+      "region": "支持地区",
+      "threshold": "Supabase 账号；Free 项目额度和上限以官方为准",
+      "eligibility": "免费项目存在资源限制，闲置一周可能暂停。",
+      "steps": [
+        "查看定价页的 Free 计划及限制。",
+        "创建项目，选择可用地区，设置数据库。",
+        "定期检查容量、流量和暂停规则，按需备份。"
+      ],
+      "cautions": [
+        "Free 不含自动备份与付费服务 SLA。",
+        "升级或超额使用可能收费；生产用途请另行评估。"
+      ],
+      "url": "https://supabase.com/pricing",
+      "source": "Supabase 官方定价页",
+      "verified": "rules",
+      "verifiedAt": "2026-11-09T03:25:00Z",
+      "expiresAt": null,
+      "cost": "free",
+      "rank": 65
+    },
+    {
+      "id": "jd-coupon",
+      "title": "京东领券中心，先领券再比价",
+      "brand": "京东",
+      "mark": "JD",
+      "color": "red",
+      "category": "shop",
+      "benefit": "品类优惠券",
+      "subtitle": "按账号与商品展示",
+      "summary": "在京东官方领券中心查找当前可领的店铺券及品类券，最终是否可叠加以结算页为准。",
+      "tags": [
+        "电商",
+        "官方入口",
+        "需比价"
+      ],
+      "region": "中国大陆",
+      "threshold": "京东账号；各券适用商品、金额和地区不同",
+      "eligibility": "以领券页及商品结算页实际展示为准。",
+      "steps": [
+        "打开京东官方领券中心，或在 App 首页点击领券。",
+        "确认券的适用商品、有效期及最低消费。",
+        "对比历史价与到手价，再决定是否购买。"
+      ],
+      "cautions": [
+        "这是领券入口，不承诺固定面额、最低价或任何账号都可领。",
+        "店铺券、平台券和支付优惠是否叠加以结算页为准。"
+      ],
+      "url": "https://pro.m.jd.com/mall/active/VAjs3vpayA513UwxL5XC4eGBXqY/index.html",
+      "source": "京东官方领券中心",
+      "verified": "entry",
+      "verifiedAt": "2026-11-09T03:25:00Z",
+      "expiresAt": null,
+      "cost": "purchase",
+      "rank": 78
+    }
+  ],
+  "repositoryReady": true
+}

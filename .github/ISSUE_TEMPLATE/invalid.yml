@@ -1,0 +1,17 @@
+name: 失效反馈
+description: 活动下架、规则变化或链接失效
+title: '[失效反馈] '
+body:
+  - type: input
+    id: offer
+    attributes:
+      label: 活动 ID 或官方链接
+    validations:
+      required: true
+  - type: textarea
+    id: evidence
+    attributes:
+      label: 发现的问题与时间
+      description: 请说明核对时间、地区及错误现象，不要提交卡号、手机号或密钥。
+    validations:
+      required: true

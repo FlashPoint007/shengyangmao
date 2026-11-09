@@ -1,0 +1,22 @@
+name: 羊毛投稿
+description: 提供官方原文、参与条件和有效期
+title: '[羊毛投稿] '
+body:
+  - type: input
+    id: official-url
+    attributes:
+      label: 官方原文链接
+      placeholder: https://
+    validations:
+      required: true
+  - type: textarea
+    id: conditions
+    attributes:
+      label: 权益与参与条件
+      description: 请说明地区、卡种、新用户、消费门槛及自动续费条件，不要提交个人敏感信息。
+    validations:
+      required: true
+  - type: input
+    id: expiry
+    attributes:
+      label: 活动截止时间（含时区）
