@@ -1,39 +1,39 @@
 {
-  "checkedAt": "2026-11-09T11:42:41.956Z",
+  "checkedAt": "2026-11-10T08:58:59.670Z",
   "notice": "HTTP成功不代表优惠有效。哈希变化可能来自页面动态内容，需人工复核，不自动刷新核验时间。",
   "results": [
     {
       "url": "https://www.psbc.com/cn/grfw/xyk/tyhd/qgthhd/202608/t20260831_458059.html",
       "ok": true,
       "status": 200,
-      "elapsedMs": 1781,
+      "elapsedMs": 2046,
       "sha256": "fa7d05031b82e3550c4c9b9c0c74ff1c02b3958cd3ee73b2ccd204eb424bf9e5",
-      "changed": null,
+      "changed": false,
       "meaning": "reachability_only"
     },
     {
       "url": "https://m.unionpayintl.com/cardholderServ/serviceCenter/wap/merchant/12402428110279?type=1",
       "ok": true,
       "status": 200,
-      "elapsedMs": 937,
+      "elapsedMs": 512,
       "sha256": "77ab97b951f262bc6523a5183f408e449dbfc3b953856c4a083fb68d25ecbbc6",
-      "changed": null,
+      "changed": false,
       "meaning": "reachability_only"
     },
     {
       "url": "https://www.mcdonalds.com.cn/coupon/",
       "ok": true,
       "status": 200,
-      "elapsedMs": 1162,
-      "sha256": "19cd17d23a9a7707b6deb4eff6412d319eb0082d64e07d8183bfc406a24ad4c6",
-      "changed": null,
+      "elapsedMs": 1999,
+      "sha256": "45e3d5767707711f9d77298fb3f58a3999a192316f47d5450eba2c39b7f75601",
+      "changed": true,
       "meaning": "reachability_only"
     },
     {
       "url": "https://ai.google.dev/gemini-api/docs/pricing",
       "ok": false,
       "status": null,
-      "elapsedMs": 321,
+      "elapsedMs": 333,
       "error": "redirect_outside_approved_hosts",
       "meaning": "reachability_only"
     },
@@ -41,54 +41,54 @@
       "url": "https://developers.cloudflare.com/workers-ai/platform/pricing/",
       "ok": true,
       "status": 200,
-      "elapsedMs": 70,
-      "sha256": "407681131da97feed3d15f9f40eaa2ce855239300a005f1f323aaf67ccef753c",
-      "changed": null,
+      "elapsedMs": 73,
+      "sha256": "07104ff36bd2594657ccbd99ec8ae18446dcef23fff6e2cb53efa53614f2786c",
+      "changed": true,
       "meaning": "reachability_only"
     },
     {
       "url": "https://huggingface.co/docs/hub/spaces-overview",
       "ok": true,
       "status": 200,
-      "elapsedMs": 249,
-      "sha256": "e55212af595e7980ab8ef7df2e242558ac94ce3c5b76298e02d78584c0cc7f76",
-      "changed": null,
+      "elapsedMs": 112,
+      "sha256": "53f24e808363c290b4539747b2a46804e6d1cc5b320245edc468aba7deaab47a",
+      "changed": true,
       "meaning": "reachability_only"
     },
     {
       "url": "https://store.epicgames.com/free-games",
       "ok": false,
       "status": 403,
-      "elapsedMs": 135,
-      "sha256": "ca6f74d6129acfc706d4a40807241d809352adb034d192afe70d13b3edc83627",
-      "changed": null,
+      "elapsedMs": 76,
+      "sha256": "7c997e7f37d482757b2d07e27fe549b506eae3f7140c56c0ad489786f582620f",
+      "changed": true,
       "meaning": "reachability_only"
     },
     {
       "url": "https://education.github.com/pack",
       "ok": true,
       "status": 200,
-      "elapsedMs": 2102,
-      "sha256": "0a148cdd7620b55145ad19532d0dc65c30aaa76b5263406d70213cc84bb5684b",
-      "changed": null,
+      "elapsedMs": 2205,
+      "sha256": "36b89b0432cfca8e3a5ab28400cbce1f5f403f51ba897d229468f0f9ea53b2ec",
+      "changed": true,
       "meaning": "reachability_only"
     },
     {
       "url": "https://supabase.com/pricing",
       "ok": true,
       "status": 200,
-      "elapsedMs": 207,
+      "elapsedMs": 1275,
       "sha256": "1fe5ef1f0e24f26e3d6ac2bf82b29b1bd758e708755830e9d059dd5b3eb964b5",
-      "changed": null,
+      "changed": false,
       "meaning": "reachability_only"
     },
     {
       "url": "https://pro.m.jd.com/mall/active/VAjs3vpayA513UwxL5XC4eGBXqY/index.html",
       "ok": true,
       "status": 200,
-      "elapsedMs": 1223,
-      "sha256": "1341760ddbad294e2968322fcf0443d3fb223e05e50da4014a5468078ea29310",
-      "changed": null,
+      "elapsedMs": 1726,
+      "sha256": "8c16166c813350e2f2a3cafc598f558b1ef3a7a098b9657c03d0fe41f462d845",
+      "changed": true,
       "meaning": "reachability_only"
     }
   ]
