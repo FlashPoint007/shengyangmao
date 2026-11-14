@@ -1,12 +1,12 @@
 {
-  "checkedAt": "2026-11-13T08:55:07.644Z",
+  "checkedAt": "2026-11-14T08:20:03.396Z",
   "notice": "HTTP成功不代表优惠有效。哈希变化可能来自页面动态内容，需人工复核，不自动刷新核验时间。",
   "results": [
     {
       "url": "https://www.psbc.com/cn/grfw/xyk/tyhd/qgthhd/202608/t20260831_458059.html",
       "ok": true,
       "status": 200,
-      "elapsedMs": 1346,
+      "elapsedMs": 1846,
       "sha256": "fa7d05031b82e3550c4c9b9c0c74ff1c02b3958cd3ee73b2ccd204eb424bf9e5",
       "changed": false,
       "meaning": "reachability_only"
@@ -15,7 +15,7 @@
       "url": "https://m.unionpayintl.com/cardholderServ/serviceCenter/wap/merchant/12402428110279?type=1",
       "ok": true,
       "status": 200,
-      "elapsedMs": 711,
+      "elapsedMs": 824,
       "sha256": "77ab97b951f262bc6523a5183f408e449dbfc3b953856c4a083fb68d25ecbbc6",
       "changed": false,
       "meaning": "reachability_only"
@@ -24,16 +24,16 @@
       "url": "https://www.mcdonalds.com.cn/coupon/",
       "ok": true,
       "status": 200,
-      "elapsedMs": 1566,
+      "elapsedMs": 1186,
       "sha256": "45e3d5767707711f9d77298fb3f58a3999a192316f47d5450eba2c39b7f75601",
-      "changed": true,
+      "changed": false,
       "meaning": "reachability_only"
     },
     {
       "url": "https://ai.google.dev/gemini-api/docs/pricing",
       "ok": false,
       "status": null,
-      "elapsedMs": 341,
+      "elapsedMs": 246,
       "error": "redirect_outside_approved_hosts",
       "meaning": "reachability_only"
     },
@@ -41,17 +41,17 @@
       "url": "https://developers.cloudflare.com/workers-ai/platform/pricing/",
       "ok": true,
       "status": 200,
-      "elapsedMs": 53,
+      "elapsedMs": 81,
       "sha256": "f74690f8d5499ec12753a6573e6a6c1f26f363100473c7bee10deeb4d20f2bc6",
-      "changed": true,
+      "changed": false,
       "meaning": "reachability_only"
     },
     {
       "url": "https://huggingface.co/docs/hub/spaces-overview",
       "ok": true,
       "status": 200,
-      "elapsedMs": 118,
-      "sha256": "5fd35d8cdf635531465fcfa22fc2758c3d62bd3d149c70544810ca5193d5f196",
+      "elapsedMs": 322,
+      "sha256": "06becc974dd39abc3375c23852d8b1c4fa9befb3b5eab15329130fb3896128a8",
       "changed": true,
       "meaning": "reachability_only"
     },
@@ -59,8 +59,8 @@
       "url": "https://store.epicgames.com/free-games",
       "ok": false,
       "status": 403,
-      "elapsedMs": 112,
-      "sha256": "de793f717f93077155a165207532bcdfc5dce331513b78e8abd68fc0a49f5aba",
+      "elapsedMs": 143,
+      "sha256": "1e3f96b420efc1f2154c818570a16c1648be016da6d0264f19f126cecc03beda",
       "changed": true,
       "meaning": "reachability_only"
     },
@@ -68,8 +68,8 @@
       "url": "https://education.github.com/pack",
       "ok": true,
       "status": 200,
-      "elapsedMs": 2859,
-      "sha256": "6db8d980a07a655f7fbd64e3321647095568dded1678b1d8298ab4bd68dcd410",
+      "elapsedMs": 2257,
+      "sha256": "cb01f8e63ccd14e9798dfc04433d1258da590ae61ffae945a0d458d1b8a5bce1",
       "changed": true,
       "meaning": "reachability_only"
     },
@@ -77,17 +77,17 @@
       "url": "https://supabase.com/pricing",
       "ok": true,
       "status": 200,
-      "elapsedMs": 138,
+      "elapsedMs": 299,
       "sha256": "6235b2c09a204479e531e7faa331c956902b541d7770acc84b5ed15b689b1f91",
-      "changed": true,
+      "changed": false,
       "meaning": "reachability_only"
     },
     {
       "url": "https://pro.m.jd.com/mall/active/VAjs3vpayA513UwxL5XC4eGBXqY/index.html",
       "ok": true,
       "status": 200,
-      "elapsedMs": 2156,
-      "sha256": "17a0c6d9f04ff1bc25c5c18b8fa4616b8a2842d399c04af7c31eb1f5c0e5f6db",
+      "elapsedMs": 1847,
+      "sha256": "355e0a7977f0381d789ee4423d7a018b96a05252759d8c5de10dbc1c68e0e63b",
       "changed": true,
       "meaning": "reachability_only"
     }
