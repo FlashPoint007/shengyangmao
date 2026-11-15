@@ -1,5 +1,5 @@
 {
-  "reviewedAt": "2026-11-09T03:25:00Z",
+  "reviewedAt": "2026-11-15T22:10:07Z",
   "repository": "FlashPoint007/shengyangmao",
   "deals": [
     {
@@ -214,6 +214,44 @@
       "expiresAt": null,
       "cost": "free",
       "rank": 70
+    },
+    {
+      "id": "hf-zerogpu",
+      "title": "Hugging Face ZeroGPU，免费共享 GPU",
+      "brand": "Hugging Face",
+      "mark": "🤗",
+      "color": "yellow",
+      "category": "ai",
+      "benefit": "5 分钟 / 天",
+      "subtitle": "使用额度 · 托管名额另计",
+      "summary": "免费账号每天含 5 分钟 GPU 使用额度；符合条件的免费个人账号最多可托管 2 个 ZeroGPU Spaces。共享算力，可能排队。",
+      "tags": [
+        "共享 GPU",
+        "Gradio",
+        "托管需资格"
+      ],
+      "region": "支持地区",
+      "threshold": "免费使用需留意账号额度；托管需邮箱已验证、账号超过 30 天且状态良好",
+      "eligibility": "使用额度与托管名额是两项规则：免费账号每天含 5 分钟 GPU 使用额度；状态良好、邮箱已验证且账号超过 30 天的免费个人账号，可免费托管最多 2 个 ZeroGPU Spaces。本站未验证你的个人资格。",
+      "steps": [
+        "先阅读官方 ZeroGPU 文档，区分使用现有 Space 与托管自己的 Space。",
+        "使用现有 ZeroGPU Space 时，检查账号剩余额度与排队情况。",
+        "如需托管，先确认免费个人账号符合条件；仅支持 Gradio SDK，在 Space 设置选择 ZeroGPU，并按官方文档配置 GPU 函数。"
+      ],
+      "cautions": [
+        "每日使用额度在首次 GPU 使用后满 24 小时重置，不按自然日零点重置。",
+        "GPU 为按需分配和释放的共享资源，可能排队，不是持续独占 GPU 或不限量服务。",
+        "最多 2 个是托管名额，不是每个 Space 各有 5 分钟；使用额度按账号层级计算。",
+        "xlarge 消耗 2 倍额度；5 分钟为额度计量，不保证所有任务都有 5 分钟实际运行时间。",
+        "账号资格、剩余额度和可用性以 Hugging Face 实际页面为准；无需据此购买订阅。"
+      ],
+      "url": "https://huggingface.co/docs/hub/spaces-zerogpu",
+      "source": "Hugging Face ZeroGPU 官方文档",
+      "verified": "rules",
+      "verifiedAt": "2026-11-15T22:10:07Z",
+      "expiresAt": null,
+      "cost": "free",
+      "rank": 88
     },
     {
       "id": "epic-weekly",
