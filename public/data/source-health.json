@@ -1,12 +1,12 @@
 {
-  "checkedAt": "2026-11-15T22:11:50.230Z",
+  "checkedAt": "2026-11-16T08:05:57.847Z",
   "notice": "HTTP成功不代表优惠有效。哈希变化可能来自页面动态内容，需人工复核，不自动刷新核验时间。",
   "results": [
     {
       "url": "https://www.psbc.com/cn/grfw/xyk/tyhd/qgthhd/202608/t20260831_458059.html",
       "ok": true,
       "status": 200,
-      "elapsedMs": 1578,
+      "elapsedMs": 1111,
       "sha256": "fa7d05031b82e3550c4c9b9c0c74ff1c02b3958cd3ee73b2ccd204eb424bf9e5",
       "changed": false,
       "meaning": "reachability_only"
@@ -15,7 +15,7 @@
       "url": "https://m.unionpayintl.com/cardholderServ/serviceCenter/wap/merchant/12402428110279?type=1",
       "ok": true,
       "status": 200,
-      "elapsedMs": 625,
+      "elapsedMs": 614,
       "sha256": "77ab97b951f262bc6523a5183f408e449dbfc3b953856c4a083fb68d25ecbbc6",
       "changed": false,
       "meaning": "reachability_only"
@@ -24,24 +24,25 @@
       "url": "https://www.mcdonalds.com.cn/coupon/",
       "ok": true,
       "status": 200,
-      "elapsedMs": 1840,
+      "elapsedMs": 1444,
       "sha256": "45e3d5767707711f9d77298fb3f58a3999a192316f47d5450eba2c39b7f75601",
       "changed": false,
       "meaning": "reachability_only"
     },
     {
-      "url": "https://ai.google.dev/gemini-api/docs/pricing",
-      "ok": false,
-      "status": null,
-      "elapsedMs": 222,
-      "error": "redirect_outside_approved_hosts",
+      "url": "https://aistudio.google.com/docs/pricing",
+      "ok": true,
+      "status": 200,
+      "elapsedMs": 189,
+      "sha256": "1ddcee6adba7130c4fe1a6c40315f1bcae6e402a7262619b45d819cfcb021d8f",
+      "changed": null,
       "meaning": "reachability_only"
     },
     {
       "url": "https://developers.cloudflare.com/workers-ai/platform/pricing/",
       "ok": true,
       "status": 200,
-      "elapsedMs": 80,
+      "elapsedMs": 52,
       "sha256": "f74690f8d5499ec12753a6573e6a6c1f26f363100473c7bee10deeb4d20f2bc6",
       "changed": false,
       "meaning": "reachability_only"
@@ -50,8 +51,8 @@
       "url": "https://huggingface.co/docs/hub/spaces-overview",
       "ok": true,
       "status": 200,
-      "elapsedMs": 191,
-      "sha256": "19914c8fe7787f4ad703bec446572fbe9201831c375422a28a4001f7ed7310a0",
+      "elapsedMs": 141,
+      "sha256": "ce9daf5ab30e241aa3ebd6d0b8bd31065a67964d7ea43cc31d3cbcc1252eaa7c",
       "changed": true,
       "meaning": "reachability_only"
     },
@@ -59,17 +60,17 @@
       "url": "https://huggingface.co/docs/hub/spaces-zerogpu",
       "ok": true,
       "status": 200,
-      "elapsedMs": 49,
-      "sha256": "0a8cb4db06d613bf68bb2f4c9de41bf354c1e017ceb21f573cd64f807dca8711",
-      "changed": null,
+      "elapsedMs": 103,
+      "sha256": "432252059d3d2013446fc3a18f48a805417968b0be32201673557df6e011ca4c",
+      "changed": true,
       "meaning": "reachability_only"
     },
     {
       "url": "https://store.epicgames.com/free-games",
       "ok": false,
       "status": 403,
-      "elapsedMs": 133,
-      "sha256": "964d11a36dd8a37d4f77762148bfb35cdb45a218c86e4b68f6c8c47f70806503",
+      "elapsedMs": 52,
+      "sha256": "f734b0ace634a2b7fe918a745d3b543f3dc7f69ce64898b98f722808e4c366d9",
       "changed": true,
       "meaning": "reachability_only"
     },
@@ -77,8 +78,8 @@
       "url": "https://education.github.com/pack",
       "ok": true,
       "status": 200,
-      "elapsedMs": 1981,
-      "sha256": "d2d8ca1688b1e3bb81384673e055dae5101156f46eedb7b9a0c74482586ad836",
+      "elapsedMs": 1901,
+      "sha256": "9c716d9e21d06bea986b76b74fd59a055cfa2beb63de92e380913aba0460526e",
       "changed": true,
       "meaning": "reachability_only"
     },
@@ -86,7 +87,7 @@
       "url": "https://supabase.com/pricing",
       "ok": true,
       "status": 200,
-      "elapsedMs": 145,
+      "elapsedMs": 124,
       "sha256": "6235b2c09a204479e531e7faa331c956902b541d7770acc84b5ed15b689b1f91",
       "changed": false,
       "meaning": "reachability_only"
@@ -95,8 +96,8 @@
       "url": "https://pro.m.jd.com/mall/active/VAjs3vpayA513UwxL5XC4eGBXqY/index.html",
       "ok": true,
       "status": 200,
-      "elapsedMs": 904,
-      "sha256": "535d201be1d7ce99ecc05218a77d4e4ad546d17261d0c414bdcade6778d1d688",
+      "elapsedMs": 1535,
+      "sha256": "14974a3ca0466676d09e52b653499c2d2713d53ccdea2736ec1a11ceb93a0d0e",
       "changed": true,
       "meaning": "reachability_only"
     }
