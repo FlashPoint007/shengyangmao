@@ -1,5 +1,5 @@
 {
-  "reviewedAt": "2026-11-15T22:10:07Z",
+  "reviewedAt": "2026-11-16T08:03:02Z",
   "repository": "FlashPoint007/shengyangmao",
   "deals": [
     {
@@ -33,7 +33,7 @@
       "url": "https://www.psbc.com/cn/grfw/xyk/tyhd/qgthhd/202608/t20260831_458059.html",
       "source": "邮储银行活动细则",
       "verified": "rules",
-      "verifiedAt": "2026-11-09T03:25:00Z",
+      "verifiedAt": "2026-11-16T08:03:02Z",
       "expiresAt": "2026-12-31T15:59:59Z",
       "startAt": "2026-08-31T16:00:00Z",
       "cost": "purchase",
@@ -69,7 +69,7 @@
       "url": "https://m.unionpayintl.com/cardholderServ/serviceCenter/wap/merchant/12402428110279?type=1",
       "source": "银联国际活动规则",
       "verified": "rules",
-      "verifiedAt": "2026-11-09T03:25:00Z",
+      "verifiedAt": "2026-11-16T08:03:02Z",
       "expiresAt": "2026-11-30T15:59:59Z",
       "startAt": "2026-10-31T16:00:00Z",
       "cost": "purchase",
@@ -105,7 +105,7 @@
       "url": "https://www.mcdonalds.com.cn/coupon/",
       "source": "麦当劳中国官网",
       "verified": "entry",
-      "verifiedAt": "2026-11-09T03:25:00Z",
+      "verifiedAt": "2026-11-16T08:03:02Z",
       "expiresAt": null,
       "cost": "purchase",
       "rank": 80
@@ -137,10 +137,10 @@
         "部分模型无免费层；免费层与付费层数据使用政策可能不同。",
         "本站不推测你的个人额度，也不承诺固定 Token 数。"
       ],
-      "url": "https://ai.google.dev/gemini-api/docs/pricing",
+      "url": "https://aistudio.google.com/docs/pricing",
       "source": "Google AI 官方定价文档",
       "verified": "rules",
-      "verifiedAt": "2026-11-09T03:25:00Z",
+      "verifiedAt": "2026-11-16T08:03:02Z",
       "expiresAt": null,
       "cost": "free",
       "rank": 95
@@ -153,8 +153,8 @@
       "color": "orange",
       "category": "ai",
       "benefit": "1 万 Neurons / 天",
-      "subtitle": "部分模型需 Workers Paid",
-      "summary": "Workers AI 提供每日 10,000 Neurons 免费分配。资源密集模型可能要求付费计划，需查看模型权限。",
+      "subtitle": "部分模型需付费方式",
+      "summary": "Workers AI 提供每日 10,000 Neurons 免费分配。部分模型需要付费方式，需查看模型权限。",
       "tags": [
         "API",
         "每日配额",
@@ -169,13 +169,13 @@
         "监控 Neurons 使用量；付费计划需留意超额费用。"
       ],
       "cautions": [
-        "部分资源密集模型自 2026 年 7 月起需 Workers Paid。",
+        "部分模型需要付费方式（Workers Paid 或预付费 AI Gateway credits），以模型权限为准。",
         "付费计划超额可能计费；不能把每日配额理解为无限调用。"
       ],
       "url": "https://developers.cloudflare.com/workers-ai/platform/pricing/",
       "source": "Cloudflare Workers AI 定价",
       "verified": "rules",
-      "verifiedAt": "2026-11-09T03:25:00Z",
+      "verifiedAt": "2026-11-16T08:03:02Z",
       "expiresAt": null,
       "cost": "free",
       "rank": 93
@@ -210,7 +210,7 @@
       "url": "https://huggingface.co/docs/hub/spaces-overview",
       "source": "Hugging Face Spaces 文档",
       "verified": "rules",
-      "verifiedAt": "2026-11-09T03:25:00Z",
+      "verifiedAt": "2026-11-16T08:03:02Z",
       "expiresAt": null,
       "cost": "free",
       "rank": 70
@@ -283,7 +283,7 @@
       "url": "https://store.epicgames.com/free-games",
       "source": "Epic Games Store 免费专区",
       "verified": "entry",
-      "verifiedAt": "2026-11-09T03:25:00Z",
+      "verifiedAt": "2026-11-16T08:03:02Z",
       "expiresAt": null,
       "cost": "free",
       "rank": 85
@@ -318,7 +318,7 @@
       "url": "https://education.github.com/pack",
       "source": "GitHub Education 官方页面",
       "verified": "rules",
-      "verifiedAt": "2026-11-09T03:25:00Z",
+      "verifiedAt": "2026-11-16T08:03:02Z",
       "expiresAt": null,
       "cost": "free",
       "rank": 75
@@ -353,7 +353,7 @@
       "url": "https://supabase.com/pricing",
       "source": "Supabase 官方定价页",
       "verified": "rules",
-      "verifiedAt": "2026-11-09T03:25:00Z",
+      "verifiedAt": "2026-11-16T08:03:02Z",
       "expiresAt": null,
       "cost": "free",
       "rank": 65

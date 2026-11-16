@@ -22,7 +22,7 @@
 {"id":"taobao","name":"淘宝 / 天猫","category":"shop","tier":"P0","url":"https://www.taobao.com/","method":"官方会场 + 人工复核","state":"planned","note":"大促口令与真实价格分开"},
 {"id":"pdd","name":"拼多多","category":"shop","tier":"P0","url":"https://www.pinduoduo.com/","method":"App 人工复核","state":"planned","note":"不收录拉人头及不透明返现"},
 {"id":"vip","name":"唯品会","category":"shop","tier":"P0","url":"https://www.vip.com/","method":"官方会场","state":"planned","note":"品牌优惠与会员门槛"},
-{"id":"google","name":"Google AI","category":"ai","tier":"P0","url":"https://ai.google.dev/gemini-api/docs/pricing","method":"官方定价文档","state":"curated","note":"逐模型核对免费层与数据政策"},
+{"id":"google","name":"Google AI","category":"ai","tier":"P0","url":"https://aistudio.google.com/docs/pricing","method":"官方定价文档","state":"curated","note":"逐模型核对免费层与数据政策"},
 {"id":"cf","name":"Cloudflare","category":"ai","tier":"P0","url":"https://developers.cloudflare.com/workers-ai/platform/pricing/","method":"文档 + Changelog","state":"curated","note":"免费分配不代表所有模型免付费"},
 {"id":"hf","name":"Hugging Face","category":"ai","tier":"P0","url":"https://huggingface.co/docs/hub/spaces-overview","method":"官方文档","state":"curated","note":"区分 Static、计算型 Spaces 与 ZeroGPU"},
 {"id":"openai","name":"OpenAI","category":"ai","tier":"P0","url":"https://openai.com/api/pricing/","method":"定价 + 官方公告","state":"planned","note":"未确认免费额度前不发布领取承诺"},
