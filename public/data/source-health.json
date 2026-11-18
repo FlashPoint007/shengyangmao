@@ -1,12 +1,12 @@
 {
-  "checkedAt": "2026-11-17T09:54:42.467Z",
+  "checkedAt": "2026-11-18T09:30:37.577Z",
   "notice": "HTTP成功不代表优惠有效。哈希变化可能来自页面动态内容，需人工复核，不自动刷新核验时间。",
   "results": [
     {
       "url": "https://www.psbc.com/cn/grfw/xyk/tyhd/qgthhd/202608/t20260831_458059.html",
       "ok": true,
       "status": 200,
-      "elapsedMs": 836,
+      "elapsedMs": 2334,
       "sha256": "fa7d05031b82e3550c4c9b9c0c74ff1c02b3958cd3ee73b2ccd204eb424bf9e5",
       "changed": false,
       "meaning": "reachability_only"
@@ -15,7 +15,7 @@
       "url": "https://m.unionpayintl.com/cardholderServ/serviceCenter/wap/merchant/12402428110279?type=1",
       "ok": true,
       "status": 200,
-      "elapsedMs": 457,
+      "elapsedMs": 846,
       "sha256": "77ab97b951f262bc6523a5183f408e449dbfc3b953856c4a083fb68d25ecbbc6",
       "changed": false,
       "meaning": "reachability_only"
@@ -24,7 +24,7 @@
       "url": "https://www.mcdonalds.com.cn/coupon/",
       "ok": true,
       "status": 200,
-      "elapsedMs": 1718,
+      "elapsedMs": 1202,
       "sha256": "45e3d5767707711f9d77298fb3f58a3999a192316f47d5450eba2c39b7f75601",
       "changed": false,
       "meaning": "reachability_only"
@@ -33,7 +33,7 @@
       "url": "https://aistudio.google.com/docs/pricing",
       "ok": true,
       "status": 200,
-      "elapsedMs": 187,
+      "elapsedMs": 189,
       "sha256": "702a838ff6cf7b45e5bd6d69874fbb271821fd04e01111e6fd209c100b9bf397",
       "changed": false,
       "meaning": "reachability_only"
@@ -42,7 +42,7 @@
       "url": "https://developers.cloudflare.com/workers-ai/platform/pricing/",
       "ok": true,
       "status": 200,
-      "elapsedMs": 57,
+      "elapsedMs": 100,
       "sha256": "59f919a23eb45acf48c66bf1b7c0daa3f5a1b5903c37a1077be23d6aec0f4b3a",
       "changed": false,
       "meaning": "reachability_only"
@@ -51,8 +51,8 @@
       "url": "https://huggingface.co/docs/hub/spaces-overview",
       "ok": true,
       "status": 200,
-      "elapsedMs": 28,
-      "sha256": "d0bfd9c78297ca63d0552cc4927eeb7300a18c1b545095e0793d2fa081ee794a",
+      "elapsedMs": 187,
+      "sha256": "23c0d7306d67632f7751c7d30a84397ffc596baad44c743ed21b67a7790a43d5",
       "changed": true,
       "meaning": "reachability_only"
     },
@@ -60,8 +60,8 @@
       "url": "https://huggingface.co/docs/hub/spaces-zerogpu",
       "ok": true,
       "status": 200,
-      "elapsedMs": 27,
-      "sha256": "71369e06f30bb8e6c7da5ff4442f321684bc2bce18e1594374998edaa287b907",
+      "elapsedMs": 238,
+      "sha256": "0ad6157d2d2424158010f924b5702f498e81211135612f4732e5a712e171af92",
       "changed": true,
       "meaning": "reachability_only"
     },
@@ -69,8 +69,8 @@
       "url": "https://store.epicgames.com/free-games",
       "ok": false,
       "status": 403,
-      "elapsedMs": 35,
-      "sha256": "8085bca9f72e385e90b75d33c18d73518b685d270234453e2d3ee51a9b4a5fcc",
+      "elapsedMs": 115,
+      "sha256": "b3f4352a1c914bf8c2b68c679334898f54f629ee06a9b7aae6e73a5ff0dd9a8b",
       "changed": true,
       "meaning": "reachability_only"
     },
@@ -78,8 +78,8 @@
       "url": "https://education.github.com/pack",
       "ok": true,
       "status": 200,
-      "elapsedMs": 1918,
-      "sha256": "1e14c5c75cfdcf890c2471e91f9d209710f5b9f09c66b067a6a80bf03cb89ad3",
+      "elapsedMs": 2120,
+      "sha256": "3a65fd8eeb28d2fe72d206360568d88e97015e75ec676274b3817cae696386cd",
       "changed": true,
       "meaning": "reachability_only"
     },
@@ -87,7 +87,7 @@
       "url": "https://supabase.com/pricing",
       "ok": true,
       "status": 200,
-      "elapsedMs": 130,
+      "elapsedMs": 225,
       "sha256": "6235b2c09a204479e531e7faa331c956902b541d7770acc84b5ed15b689b1f91",
       "changed": false,
       "meaning": "reachability_only"
@@ -96,8 +96,8 @@
       "url": "https://pro.m.jd.com/mall/active/VAjs3vpayA513UwxL5XC4eGBXqY/index.html",
       "ok": true,
       "status": 200,
-      "elapsedMs": 1002,
-      "sha256": "f0190e771ef7084994c987f7c3f345d0c3583d0d3da42884651223f0a3659640",
+      "elapsedMs": 1403,
+      "sha256": "5c49ac90675746f493e0fe979c09a49dd4af586c5528a94e4a3634bd0dfac095",
       "changed": true,
       "meaning": "reachability_only"
     }
