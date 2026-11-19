@@ -1,12 +1,12 @@
 {
-  "checkedAt": "2026-11-18T09:30:37.577Z",
+  "checkedAt": "2026-11-19T09:40:21.068Z",
   "notice": "HTTP成功不代表优惠有效。哈希变化可能来自页面动态内容，需人工复核，不自动刷新核验时间。",
   "results": [
     {
       "url": "https://www.psbc.com/cn/grfw/xyk/tyhd/qgthhd/202608/t20260831_458059.html",
       "ok": true,
       "status": 200,
-      "elapsedMs": 2334,
+      "elapsedMs": 1056,
       "sha256": "fa7d05031b82e3550c4c9b9c0c74ff1c02b3958cd3ee73b2ccd204eb424bf9e5",
       "changed": false,
       "meaning": "reachability_only"
@@ -15,7 +15,7 @@
       "url": "https://m.unionpayintl.com/cardholderServ/serviceCenter/wap/merchant/12402428110279?type=1",
       "ok": true,
       "status": 200,
-      "elapsedMs": 846,
+      "elapsedMs": 845,
       "sha256": "77ab97b951f262bc6523a5183f408e449dbfc3b953856c4a083fb68d25ecbbc6",
       "changed": false,
       "meaning": "reachability_only"
@@ -24,35 +24,35 @@
       "url": "https://www.mcdonalds.com.cn/coupon/",
       "ok": true,
       "status": 200,
-      "elapsedMs": 1202,
-      "sha256": "45e3d5767707711f9d77298fb3f58a3999a192316f47d5450eba2c39b7f75601",
-      "changed": false,
+      "elapsedMs": 1207,
+      "sha256": "19cd17d23a9a7707b6deb4eff6412d319eb0082d64e07d8183bfc406a24ad4c6",
+      "changed": true,
       "meaning": "reachability_only"
     },
     {
       "url": "https://aistudio.google.com/docs/pricing",
       "ok": true,
       "status": 200,
-      "elapsedMs": 189,
-      "sha256": "702a838ff6cf7b45e5bd6d69874fbb271821fd04e01111e6fd209c100b9bf397",
-      "changed": false,
+      "elapsedMs": 235,
+      "sha256": "9c7ea643955f30d793c3b18d0b49ee85d5eb946c7d5cda3dcef3170f4b8ef92d",
+      "changed": true,
       "meaning": "reachability_only"
     },
     {
       "url": "https://developers.cloudflare.com/workers-ai/platform/pricing/",
       "ok": true,
       "status": 200,
-      "elapsedMs": 100,
-      "sha256": "59f919a23eb45acf48c66bf1b7c0daa3f5a1b5903c37a1077be23d6aec0f4b3a",
-      "changed": false,
+      "elapsedMs": 107,
+      "sha256": "af3fc4e036d0c5067fe2f7f65318f06f5ffcd50b9a0b6703a611f1939f3b3f0e",
+      "changed": true,
       "meaning": "reachability_only"
     },
     {
       "url": "https://huggingface.co/docs/hub/spaces-overview",
       "ok": true,
       "status": 200,
-      "elapsedMs": 187,
-      "sha256": "23c0d7306d67632f7751c7d30a84397ffc596baad44c743ed21b67a7790a43d5",
+      "elapsedMs": 270,
+      "sha256": "a3333e056288f6eec79f1189e395251a8efbe31f59e04f90a143774437995769",
       "changed": true,
       "meaning": "reachability_only"
     },
@@ -60,8 +60,8 @@
       "url": "https://huggingface.co/docs/hub/spaces-zerogpu",
       "ok": true,
       "status": 200,
-      "elapsedMs": 238,
-      "sha256": "0ad6157d2d2424158010f924b5702f498e81211135612f4732e5a712e171af92",
+      "elapsedMs": 355,
+      "sha256": "5a538d2a17319be02a1cc1c52d6075619a953522f89ee7b326b96a5b2367cd0e",
       "changed": true,
       "meaning": "reachability_only"
     },
@@ -69,8 +69,8 @@
       "url": "https://store.epicgames.com/free-games",
       "ok": false,
       "status": 403,
-      "elapsedMs": 115,
-      "sha256": "b3f4352a1c914bf8c2b68c679334898f54f629ee06a9b7aae6e73a5ff0dd9a8b",
+      "elapsedMs": 133,
+      "sha256": "7686df1e9179c6c228f87c89fb45c44ca0bc6249d7a9d04097822395e1259dab",
       "changed": true,
       "meaning": "reachability_only"
     },
@@ -78,8 +78,8 @@
       "url": "https://education.github.com/pack",
       "ok": true,
       "status": 200,
-      "elapsedMs": 2120,
-      "sha256": "3a65fd8eeb28d2fe72d206360568d88e97015e75ec676274b3817cae696386cd",
+      "elapsedMs": 2048,
+      "sha256": "59d7af8038dbab1de6150ab127c580600725fcf05ecba111f00b7d2f9d3a6a0b",
       "changed": true,
       "meaning": "reachability_only"
     },
@@ -87,17 +87,17 @@
       "url": "https://supabase.com/pricing",
       "ok": true,
       "status": 200,
-      "elapsedMs": 225,
-      "sha256": "6235b2c09a204479e531e7faa331c956902b541d7770acc84b5ed15b689b1f91",
-      "changed": false,
+      "elapsedMs": 203,
+      "sha256": "e75657ca80bf147de32048d373d97c922984757ab9ad192df22a8e812183c64a",
+      "changed": true,
       "meaning": "reachability_only"
     },
     {
       "url": "https://pro.m.jd.com/mall/active/VAjs3vpayA513UwxL5XC4eGBXqY/index.html",
       "ok": true,
       "status": 200,
-      "elapsedMs": 1403,
-      "sha256": "5c49ac90675746f493e0fe979c09a49dd4af586c5528a94e4a3634bd0dfac095",
+      "elapsedMs": 971,
+      "sha256": "6c989d8bf78a01690e12706b4a17e937f5680dd52fbc40133cbd0c47961b027f",
       "changed": true,
       "meaning": "reachability_only"
     }
